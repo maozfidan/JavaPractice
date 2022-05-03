@@ -8,7 +8,7 @@ public class Q3_Fibonacci {
 
     /*
     Kullanıcıdan alınan bir tamsayıya kadar FIBONACCI dizisi oluşturun.
-    0-1-1-2-3-5-8-13-21-34....
+    0-11--2-53--8-13-21-34....
     */
     public static void main(String[] args) {
         List<Integer> fibonacci = new ArrayList<>();
